@@ -17,7 +17,6 @@ body {
     padding: 1rem;
     display: flex;
     justify-content: center;
-    margin: 0 5rem 0 5rem;
 }
 
 .nav-container a {
@@ -29,14 +28,27 @@ body {
     color: yellow;
 }
 
+.main-section-container {
+    margin: 0rem 0rem 0rem 7rem;
+
+}
+
 .main-container-menu {
     display: flex;
+    margin: 0rem 0rem 0rem 3rem;
 }
 
-.aside-container {
-    background-color: aqua;
+.aside-principal-component-container {
+    margin-top: 2rem;
 }
 
-.popular-container {
+
+.popular-article-div-container {
     display: flex;
+}
+
+
+
+.section-title {
+    display: block;
 }
