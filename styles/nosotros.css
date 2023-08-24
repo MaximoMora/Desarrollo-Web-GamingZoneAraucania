@@ -9,6 +9,7 @@ body {
 }
 
 
+
 .title-content {
     background-color: aqua;
     
@@ -70,4 +71,17 @@ body {
 
 .nav-container a:hover {
     color: yellow;
+}
+
+.TITULIN{
+    font-size: xx-large;
+    color: rgb(0, 252, 63);
+}
+
+.Yo{
+    color: whitesmoke;
+}
+
+.El{
+    color: whitesmoke;
 }
